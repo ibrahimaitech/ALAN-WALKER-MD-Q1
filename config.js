@@ -126,12 +126,12 @@ global.princebot = '**𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗*'
 global.packname = '*𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗' 
 global.author = '' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
+global.princegp = 'https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD'
 global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
-global.Princesc = 'https://github.com/Itxmanno05/THE-MANNO-BOT' 
+global.Princesc = 'https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = fs.readFileSync('./Assets/Mano.jpg')
+global.Princelog = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
+global.thumb = fs.readFileSync('https://telegra.ph/file/d52a552a0b817753754e8.jpg')
 //💌------------------------------------------💌
 
 
