@@ -13,7 +13,6 @@
  
 <h1 align="center">㊙𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗㊙</h1>
 
-#### 🪩 To Change the owner number click here [CHANGE ONWER](https://github.com/Itxmanno05/THE-MANNO-BOT/blob/main/plugins/main-creator.js#L7)🪩
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
