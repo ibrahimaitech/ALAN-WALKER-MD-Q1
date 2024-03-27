@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923097045246", "*⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*", false],
+  ["254710772666", "*⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*", false],
   [''], 
   [''] 
 ]
@@ -20,9 +20,9 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923097045246'] 
-global.prems = ['923097045246']
-global.allowed = ['923097045246']
+global.mods = ['254710772666'] 
+global.prems = ['254710772666']
+global.allowed = ['254710772666']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -75,23 +75,23 @@ global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
 
 
 
-global.img = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img2 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img3 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg' 
-global.img4 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg' 
-global.img5 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img6 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img7 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img8 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img9 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img10 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img11 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img12 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img13 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img14 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img15 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img16 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
-global.img17 = 'https://telegra.ph/file/d52a552a0b817753754e8.jpg'
+global.img = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img2 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img3 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg' 
+global.img4 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg' 
+global.img5 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img6 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img7 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img8 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img9 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img10 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img11 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img12 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img13 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img14 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img15 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img16 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
+global.img17 = 'https://telegra.ph/file/82a61aaa72f040842620f.jpg'
 //💌------------------------------------------💌
 
 
@@ -121,9 +121,9 @@ global.developer = 'https://wa.me/message/923097045246' //contact
 
 
 //Sticker WM
-global.botname = '*MANNO-BOT-MÐ*'
-global.princebot = '*🛡️𝘔𝘈𝘕𝘕𝘕𝘖-𝘉𝘖𝘛-𝘔𝘋🛡️*'
-global.packname = '𝘔𝘈𝘕𝘕𝘕𝘖-𝘉𝘖𝘛♥️' 
+global.botname = '*𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗*'
+global.princebot = '**𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗*'
+global.packname = '*𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗' 
 global.author = '' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
