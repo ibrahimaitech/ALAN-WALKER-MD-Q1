@@ -15,15 +15,15 @@ import {
  
  const defaultMenu = {
   before: `
-  │✫ - 「🛡️ ${botname} 🛡️」 - ✫│\n
+  │✫ - 「㊙ ${botname} ㊙」 - ✫│\n
   
  
  
-  ╭━━⊱『 *I N F O*』⊱━━╮
+  ╭━━🝪『 *𝗧𝗘𝗖𝗛 』 🝪🝪
   ⛥ *Mode:* %mode
   ⛥ *Platform:* %platform
   ⛥ *Type:* NodeJs
-  ⛥ *Baileys:* Multi Device
+  ⛥ *Developer:* Ibrahim
   ⛥ *Prefix:* [ *%_p* ]
   ⛥ *Uptime:* %muptime
   ⛥ *Database:*  %totalreg
