@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (PRINCE-BOT)",
+  "name": "whatsapp-bot (𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "repository": "https://github.com/ibrahimaitech/ALAN-WALKER-MD-Q1/tree/main",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
