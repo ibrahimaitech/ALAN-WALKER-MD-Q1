@@ -7,8 +7,8 @@ const { levelling } = '../lib/levelling.js'
 import moment from 'moment-timezone'
 import { promises } from 'fs'
 import { join } from 'path'
-const time = moment.tz('Asia/Karachi').format('HH')
-let wib = moment.tz('Asia/Karachi').format('HH:mm:ss')
+const time = moment.tz('Africa/Nairobi').format('HH')
+let wib = moment.tz('Africa/Nairobi').format('HH:mm:ss')
 //import db from '../lib/database.js'
 
 let handler = async (m, { conn, usedPrefix, command}) => {
@@ -36,29 +36,24 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *🛡️MANNO-BOT-MÐ🛡️*
+let str = ` *㊙𝗔𝗟𝗔𝗡-𝗪𝗔𝗟𝗞𝗘𝗥-𝗠𝗗㊙*
 
 
-╭━⊱「Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ⊱━╮
+╭━⊱「Legit bot to use㊙
 │
-│ *🕋✫ - 「+𝘘𝘶𝘳𝘢𝘯𝘮𝘦𝘯𝘶*
-│ *📚✫ - 「+𝘚𝘵𝘶𝘥𝘺𝘮𝘦𝘯𝘶*
-│ *🛡️✫ - 「+𝘖𝘸𝘯𝘦𝘳𝘮𝘦𝘯𝘶*
-│ *💌✫ - 「+𝘉𝘰𝘵𝘮𝘦𝘯𝘶*
-│ *🧬✫ - 「+𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶*
-│ *📥✫ - 「+𝘋𝘭𝘮𝘦𝘯𝘶*
-│ *🧰✫ - 「+𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶*
-│ *🎨✫ - 「+𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶*
-│ *🎉✫ - 「+𝘍𝘶𝘯𝘮𝘦𝘯𝘶* 
-│ *🎮✫ - 「+𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶*
-│ *🎩✫ - 「+𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶*
-│ *${usedPrefix}ᴍᴇɴᴜ2 ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
-│ *${usedPrefix}ᴍᴇɴᴜ3 ғᴏʀ sᴘᴇᴄɪᴀʟ ᴍᴇɴᴜ ʟɪsᴛ*
-│ *${usedPrefix}ʟɪsᴛ ғᴏʀ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
-│
+│ *🝪✫ - 「+𝘘𝘶𝘳𝘢𝘯𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘚𝘵𝘶𝘥𝘺𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘖𝘸𝘯𝘦𝘳𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘉𝘰𝘵𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘍𝘶𝘯𝘮𝘦𝘯𝘶* 
+│ *🝪✫ - 「+𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶*
+│ *🝪✫ - 「+𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶*
 │ *${greeting}*
 ╰━━━━━━━━━━━━━━━━━━━━━━━━╯
-📚 *_Quote of the day: ${quote}_* 📚
+㊙ *_Quote of the day: ${quote}_* ㊙
 `
 
 
