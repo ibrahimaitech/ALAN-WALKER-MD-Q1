@@ -19,7 +19,7 @@ import {
   
  
  
-  ╭━━🝪『 *𝗧𝗘𝗖𝗛 』 🝪🝪
+  ╭━━ 🝪『 *𝗧𝗘𝗖𝗛 』 🝪🝪
   ⛥ *Mode:* %mode
   ⛥ *Platform:* %platform
   ⛥ *Type:* NodeJs
