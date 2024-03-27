@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/ibrahimaitech/ALAN-WALKER-MD-Q1/tree/main",
+  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
