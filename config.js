@@ -122,8 +122,8 @@ global.developer = 'https://wa.me/message/923097045246' //contact
 
 //Sticker WM
 global.botname = '*𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗*'
-global.princebot = '**𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗*'
-global.packname = '*𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗' 
+global.princebot = '*𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗*'
+global.packname = '𝘼𝙇𝘼𝙉-𝙒𝘼𝙇𝙆𝙀𝙍-𝗠𝗗' 
 global.author = '' 
 global.princeig = 'https://wa.me/message/74F2PC4JA4F3P1' 
 global.princegp = 'https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD'
